@@ -2,6 +2,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 //import App from './App/App';
 import './index.css';
-import Form from './Form/Form'
+import Filter from './Filter/Filter'
 
-ReactDOM.render(<Form />, document.getElementById('root'));
+ReactDOM.render(<Filter />, document.getElementById('root'));
